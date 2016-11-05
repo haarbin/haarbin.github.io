@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>BeiYuu</h1>
+        <h1>haarbin</h1>
         <a href="http://weibo.com/1790140863/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         </div>
       <div id="particles-js"></div>
